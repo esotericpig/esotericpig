@@ -6,7 +6,7 @@
 |:diamonds: => Ruby | :coffee: => Java | :rainbow: => multi-lang |
 | :heavy_check_mark: => useable | :hammer: => in heavy development | |
 
-#### :bento: Dev/Libs
+#### :bento: Dev / Libs
 | lang | status | repo | pkg | use |
 | --- | --- | --- | --- | --- |
 | :diamonds: | :heavy_check_mark: | [attr_bool](https://github.com/esotericpig/attr_bool) | [attr_bool](https://rubygems.org/gems/attr_bool) | `attr_accessor? :winning` |
@@ -27,7 +27,7 @@
 | :diamonds: | :heavy_check_mark: | [SSC.Nob](https://github.com/esotericpig/ssc.nob) | [ssc.nob](https://rubygems.org/gems/ssc.nob) | Subspace Continuum bot |
 | :diamonds: | :hammer: | [UncleKryon-server](https://github.com/esotericpig/UncleKryon-server) | [unclekryon](https://rubygems.org/gems/unclekryon) | Scrape Kryon sites |
 
-### :tanabata_tree: Misc.
+#### :tanabata_tree: Misc.
 
 | lang | status | repo | pkg | use |
 | --- | --- | --- | --- | --- |
