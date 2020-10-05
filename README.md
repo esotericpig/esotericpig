@@ -1,12 +1,10 @@
 :necktie: Available for freelance work and/or consulting.  
 :mailbox_with_mail: Contact: bradley@esotericpig.com  
 
-:diamonds: => Ruby  
-:coffee: => Java  
-:rainbow: => multi-lang  
-
-:heavy_check_mark: => useable  
-:hammer: => in heavy development  
+| Keys | | |
+| --- | --- | --- |
+|:diamonds: => Ruby | :coffee: => Java | :rainbow: => multi-lang |
+| :heavy_check_mark: => useable | :hammer: => in heavy development | |
 
 #### :bento: Dev/Libs
 | lang | status | repo | pkg | use |
@@ -25,7 +23,7 @@
 | :diamonds: | :heavy_check_mark: | [NHKore](https://github.com/esotericpig/nhkore) | [nhkore](https://rubygems.org/gems/nhkore) | Scrape NHK News Web Easy |
 | :diamonds: | :hammer: | [Nurby](https://github.com/esotericpig/nurby) | - | `curl`-like app |
 | :diamonds: | :heavy_check_mark: | [Raketary](https://github.com/esotericpig/raketary) | [raketary](https://rubygems.org/gems/raketary) | Common Rake tasks |
-| :coffee: | :hammer: | [senpi](https://github.com/esotericpig/senpi) | π (pi) in base 12 |
+| :coffee: | :hammer: | [senpi](https://github.com/esotericpig/senpi) | - | π (pi) in base 12 |
 | :diamonds: | :heavy_check_mark: | [SSC.Nob](https://github.com/esotericpig/ssc.nob) | [ssc.nob](https://rubygems.org/gems/ssc.nob) | Subspace Continuum bot |
 | :diamonds: | :hammer: | [UncleKryon-server](https://github.com/esotericpig/UncleKryon-server) | [unclekryon](https://rubygems.org/gems/unclekryon) | Scrape Kryon sites |
 
@@ -33,4 +31,4 @@
 
 | lang | status | repo | pkg | use |
 | --- | --- | --- | --- | --- |
-| - | :heavy_check_mark: | [Codewars](https://github.com/esotericpig/codewars) | - | My Codewars solutions |
+| :rainbow: | :heavy_check_mark: | [Codewars](https://github.com/esotericpig/codewars) | - | My Codewars solutions |
