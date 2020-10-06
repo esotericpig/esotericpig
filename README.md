@@ -20,13 +20,13 @@
 #### :honey_pot: Apps
 | lang | status | repo | pkg | use |
 | --- | --- | --- | --- | --- |
-| :diamonds: | :heavy_check_mark: | [NHKore](https://github.com/esotericpig/nhkore) | [nhkore](https://rubygems.org/gems/nhkore) | Scrape NHK News Web Easy |
+| :diamonds: | :heavy_check_mark: | [NHKore](https://github.com/esotericpig/nhkore) | [nhkore](https://rubygems.org/gems/nhkore) | Scrapes NHK News Web Easy |
 | :diamonds: | :hammer: | [Nurby](https://github.com/esotericpig/nurby) | - | `curl`-like app |
 | :diamonds: | :heavy_check_mark: | [Raketary](https://github.com/esotericpig/raketary) | [raketary](https://rubygems.org/gems/raketary) | Common Rake tasks |
 | :snake: | :hammer: | [RDPer](https://github.com/esotericpig/rdper) | - | `rdesktop` GUI |
 | :coffee: | :hammer: | [Senpi](https://github.com/esotericpig/senpi) | - | π (pi) in base 12 |
 | :diamonds: | :heavy_check_mark: | [SSC.Nob](https://github.com/esotericpig/ssc.nob) | [ssc.nob](https://rubygems.org/gems/ssc.nob) | Subspace Continuum bot |
-| :diamonds: | :hammer: | [UncleKryon-server](https://github.com/esotericpig/UncleKryon-server) | [unclekryon](https://rubygems.org/gems/unclekryon) | Scrape Kryon sites |
+| :diamonds: | :hammer: | [UncleKryon-server](https://github.com/esotericpig/UncleKryon-server) | [unclekryon](https://rubygems.org/gems/unclekryon) | Scrapes Kryon sites |
 
 #### :tanabata_tree: Misc.
 
