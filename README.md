@@ -6,6 +6,8 @@
 |:diamonds: Ruby | :coffee: Java | :snake: Python | :rainbow: multi-lang |
 | :heavy_check_mark: useable | :hammer: developing | | |
 
+:scroll: Docs: https://esotericpig.github.io/index.html
+
 #### :bento: Libs
 | lang | status | repo | pkg | use |
 | --- | --- | --- | --- | --- |
