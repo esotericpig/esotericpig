@@ -1,12 +1,12 @@
 :necktie: Available for freelance work and/or consulting.  
 :mailbox_with_mail: Contact: bradley@esotericpig.com  
 
+:scroll: Docs: https://esotericpig.github.io/index.html
+
 | Map Legend | | | |
 | --- | --- | --- | --- |
 |:diamonds: Ruby | :coffee: Java | :snake: Python | :rainbow: multi-lang |
 | :heavy_check_mark: useable | :hammer: developing | | |
-
-:scroll: Docs: https://esotericpig.github.io/index.html
 
 #### :bento: Libs
 | lang | status | repo | pkg | use |
