@@ -1,6 +1,3 @@
-:necktie: Available for hire.  
-:mailbox_with_mail: Contact: bradley@esotericpig.com  
-
 :scroll: Docs: https://esotericpig.github.io/index.html
 
 | Langs | | | | |
