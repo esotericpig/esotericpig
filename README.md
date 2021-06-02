@@ -11,7 +11,7 @@
 <tr><td>:railway_track: Rails</td><td>:bird: Flutter</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
 
 <tr><td colspan="5"><b>States</b></td></tr>
-<tr><td>:heavy_check_mark: useable</td><td>:hammer: developing</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>:heavy_check_mark: complete</td><td>:rice_ball: useable</td><td>:pick: developing</td><td>&nbsp;</td><td>&nbsp;</td></tr>
 </table>
 
 
@@ -25,18 +25,18 @@
 <tr><td>:coffee:</td><td>-</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/jeso">Jeso</a></td><td><a href="https://github.com/esotericpig/jeso/packages/">jeso</a></td><td> Java utils (<code>Robot</code> wrapper)</td><td><a href="https://github.com/esotericpig/jeso#readme">Readme</a></td></tr>
 <tr><td>:diamonds:</td><td>-</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/psychgus">Psychgus</a></td><td><a href="https://rubygems.org/gems/psychgus">psychgus</a></td><td>Add style to YAML</td><td><a href="https://esotericpig.github.io/docs/psychgus/yardoc">GitHub.io</a></td></tr>
 <tr><td>:diamonds:</td><td>-</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/raketeer">Raketeer</a></td><td><a href="https://rubygems.org/gems/raketeer">raketeer</a></td><td>Extra Rake tasks</td><td><a href="https://rubydoc.info/github/esotericpig/raketeer">RubyDoc.info</a></td></tr>
-<tr><td>:diamonds:</td><td>-</td><td>:hammer:</td><td><a href="https://github.com/esotericpig/ssc.bot">SSC.Bot</a></td><td><a href="https://rubygems.org/gems/ssc.bot">ssc.bot</a></td><td>Make Subspace Continuum bots</td><td><a href="https://rubydoc.info/github/esotericpig/ssc.bot">RubyDoc.info</a></td></tr>
+<tr><td>:diamonds:</td><td>-</td><td>:rice_ball:</td><td><a href="https://github.com/esotericpig/ssc.bot">SSC.Bot</a></td><td><a href="https://rubygems.org/gems/ssc.bot">ssc.bot</a></td><td>Make Subspace Continuum bots</td><td><a href="https://rubydoc.info/github/esotericpig/ssc.bot">RubyDoc.info</a></td></tr>
 <tr><td>:diamonds:</td><td>-</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/yard_ghurt">YardGhurt</a></td><td><a href="https://rubygems.org/gems/yard_ghurt">yard_ghurt</a></td><td>YARDoc GitHub Rake tasks</td><td><a href="https://esotericpig.github.io/docs/yard_ghurt/yardoc">GitHub.io</a></td></tr>
 
 <tr><td colspan="7">:honey_pot: <b>Apps</b></td></tr>
 <tr><td><b>lang</b></td><td><b>frame</b></td><td><b>state</b></td><td><b>repo</b></td><td><b>pkg</b></td><td><b>use</b></td><td><b>doc</b></td></tr>
 <tr><td>:diamonds:</td><td>-</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/nhkore">NHKore</a></td><td><a href="https://rubygems.org/gems/nhkore">nhkore</a></td><td>Scrape NHK News Web Easy</td><td><a href="https://rubydoc.info/github/esotericpig/nhkore">RubyDoc.info</a></td></tr>
-<tr><td>:diamonds:</td><td>-</td><td>:hammer:</td><td><a href="https://github.com/esotericpig/nurby">Nurby</a></td><td>-</td><td><code>curl</code>-like app</td><td>-</td></tr>
+<tr><td>:diamonds:</td><td>-</td><td>:pick:</td><td><a href="https://github.com/esotericpig/nurby">Nurby</a></td><td>-</td><td><code>curl</code>-like app</td><td>-</td></tr>
 <tr><td>:diamonds:</td><td>-</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/raketary">Raketary</a></td><td><a href="https://rubygems.org/gems/raketary">raketary</a></td><td>Common Rake tasks</td><td><a href="https://rubydoc.info/github/esotericpig/raketary">RubyDoc.info</a></td></tr>
-<tr><td>:coffee:</td><td>-</td><td>:hammer:</td><td><a href="https://github.com/esotericpig/senpi">Senpi</a></td><td>-</td><td>π (pi) in base 12</td><td><a href="https://github.com/esotericpig/senpi#readme">Readme</a></td></tr>
-<tr><td>:diamonds:</td><td>-</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/ssc.nob">SSC.Nob</a></td><td><a href="https://rubygems.org/gems/ssc.nob">ssc.nob</a></td><td>Subspace Continuum bot</td><td><a href="https://rubydoc.info/github/esotericpig/ssc.nob">RubyDoc.info</a></td></tr>
-<tr><td>:coffee:</td><td>-</td><td>:hammer:</td><td><a href="https://github.com/esotericpig/twandy">Twandy</a></td><td>-</td><td>Twitch Plays bot</td><td><a href="https://github.com/esotericpig/twandy#readme">Readme</a></td></tr>
-<tr><td>:diamonds:</td><td>-</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/UncleKryon-server">UncleKryon-server</a></td><td><a href="https://rubygems.org/gems/unclekryon">unclekryon</a></td><td>Scrape Kryon sites</td><td>-</td></tr>
+<tr><td>:coffee:</td><td>-</td><td>:pick:</td><td><a href="https://github.com/esotericpig/senpi">Senpi</a></td><td>-</td><td>π (pi) in base 12</td><td><a href="https://github.com/esotericpig/senpi#readme">Readme</a></td></tr>
+<tr><td>:diamonds:</td><td>-</td><td>:rice_ball:</td><td><a href="https://github.com/esotericpig/ssc.nob">SSC.Nob</a></td><td><a href="https://rubygems.org/gems/ssc.nob">ssc.nob</a></td><td>Subspace Continuum bot</td><td><a href="https://rubydoc.info/github/esotericpig/ssc.nob">RubyDoc.info</a></td></tr>
+<tr><td>:coffee:</td><td>-</td><td>:pick:</td><td><a href="https://github.com/esotericpig/twandy">Twandy</a></td><td>-</td><td>Twitch Plays bot</td><td><a href="https://github.com/esotericpig/twandy#readme">Readme</a></td></tr>
+<tr><td>:diamonds:</td><td>-</td><td>:rice_ball:</td><td><a href="https://github.com/esotericpig/UncleKryon-server">UncleKryon-server</a></td><td><a href="https://rubygems.org/gems/unclekryon">unclekryon</a></td><td>Scrape Kryon sites</td><td>-</td></tr>
 
 <tr><td colspan="7">:tanabata_tree: <b>Misc.</b></td></tr>
 <tr><td><b>lang</b></td><td><b>frame</b></td><td><b>state</b></td><td><b>repo</b></td><td><b>pkg</b></td><td><b>use</b></td><td><b>doc</b></td></tr>
