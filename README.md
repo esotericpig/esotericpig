@@ -4,11 +4,11 @@
 <tr><td colspan="4"><b>❰&emsp; Langs &amp; Frames &emsp;❱</b></td></tr>
   <tr><td>:rose: Ruby</td><td>:coffee: Java</td><td>:rat: C++</td><td>:fried_shrimp: C</td></tr>
   <tr><td>:snake: Python</td><td>:godmode: multi-lang</td><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td colspan="4">&nbsp;</td></tr>
 
 <tr><td colspan="4"><b>❰&emsp; Status? &emsp;❱</b></td></tr>
   <tr><td>:heavy_check_mark: complete</td><td>:rice_ball: useable</td><td>:pick: developing</td><td>:zombie: zombie</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td colspan="4">&nbsp;</td></tr>
 </table>
 
 <table>
