@@ -27,7 +27,7 @@
   <tr><td>:rose:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/nhkore">NHKore</a></td><td>Scrape NHK News Web Easy.</td></tr>
   <tr><td>:rose:</td><td>:pick:</td><td><a href="https://github.com/esotericpig/nurby">Nurby</a></td><td><code>curl</code>-like app.</td></tr>
   <tr><td>:rose:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/raketary">Raketary</a></td><td>Common Rake tasks.</td></tr>
-  <tr><td>:coffee:</td><td>:pick:</td><td><a href="https://github.com/esotericpig/senpi">Senpi</a></td><td>π (pi) in base 12.</td></tr>
+  <tr><td>:coffee:</td><td>:zombie:</td><td><a href="https://github.com/esotericpig/senpi">Senpi</a></td><td>π (pi) in base 12.</td></tr>
   <tr><td>:rose:</td><td>:rice_ball:</td><td><a href="https://github.com/esotericpig/ssc.nob">SSC.Nob</a></td><td>Subspace Continuum bot.</td></tr>
   <tr><td>:coffee:</td><td>:pick:</td><td><a href="https://github.com/esotericpig/twandy">Twandy</a></td><td>Twitch Plays bot.</td></tr>
   <tr><td>:rose:</td><td>:rice_ball:</td><td><a href="https://github.com/esotericpig/UncleKryon-server">UncleKryon-server</a></td><td>Scrape Kryon sites.</td></tr>
