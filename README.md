@@ -45,8 +45,8 @@
   <tr><td colspan="4">&nbsp;</td></tr>
 
 <tr><td>:trident:</td><td colspan="3"><b>❰&emsp; Forks &emsp;❱</b></td></tr>
-  <tr><td>:fried_shrimp:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/geany/geany/compare/master...esotericpig:geany:comment-blank-lines">Geany</a></td><td>Adds option to comment blank lines.</td></tr>
+  <tr><td>:fried_shrimp:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/geany/commits/comment-blank-lines/?author=esotericpig">Geany</a></td><td>Adds option to comment blank lines.</td></tr>
   <tr><td>:snake:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/picard-plugins/commits/fix_tracknums_1.0/?author=esotericpig">Picard Plugins</a></td><td>Plugin: Fix Track Numbers.</td></tr>
-  <tr><td>:rose:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/rubygems/compare/master...esotericpig:rubygems:slow_internet">RubyGems</a></td><td>Fixes for people w/ slow internet.</td></tr>
+  <tr><td>:rose:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/rubygems/commits/slow_internet/?author=esotericpig">RubyGems</a></td><td>Fixes for people w/ slow internet.</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
 </table>
