@@ -35,7 +35,7 @@
   <tr><td colspan="4">&nbsp;</td></tr>
 
 <tr><td>:video_game:</td><td colspan="3"><b>❰&emsp; Games &emsp;❱</b></td></tr>
-  <tr><td>:rat:</td><td>:rice_ball:</td><td><a href="https://github.com/esotericpig/EkoScape">EkoScape</a></td><td>Simple 3D step-based game in SDL2, like a 3D Pac-Man.</td></tr>
+  <tr><td>:rat:</td><td>:rice_ball:</td><td><a href="https://github.com/esotericpig/EkoScape">EkoScape</a></td><td>Simple 3D step-based game using SDL2 & OpenGL, like a 3D Pac-Man.</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td colspan="4">&nbsp;</td></tr>
 
