@@ -1,4 +1,5 @@
-:scroll: <b>Docs:</b> &ensp; https://esotericpig.github.io/index.html <br>
+:scroll: <b>Docs:</b><br>
+https://esotericpig.github.io/index.html <br>
 
 <table>
   <caption>:bento: <b>Libs</b></caption>
@@ -45,8 +46,7 @@
 </table>
 
 <hr>
-
-<h3>:fairy: Legend</h3>
+:fairy: <b>Legend</b><br><br>
 <table>
   <caption>Langs &amp; Frames</caption>
   <tr><td>:rose: Ruby</td><td>:coffee: Java</td><td>:rat: C++</td><td>:fried_shrimp: C</td><td>:snake: Python</td></tr>
