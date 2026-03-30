@@ -1,4 +1,4 @@
-:scroll: <b>Docs:</b><br>
+:scroll: <b>Docs</b><br>
 https://esotericpig.github.io/index.html <br>
 
 <table>
