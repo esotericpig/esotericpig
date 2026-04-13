@@ -29,7 +29,7 @@
 
 <table>
   <caption>:video_game: <b>Games</b></caption>
-  <tr><td>:rat:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/EkoScape">EkoScape</a></td><td>Simple 3D step-based game in SDL2 & OpenGL, like a 3D Pac-Man.</td></tr>
+  <tr><td>:rat:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/EkoScape">EkoScape</a></td><td>3D step-based arcade game in SDL2 & OpenGL, like a 3D Pac-Man.</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
 </table>
 
