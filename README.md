@@ -6,7 +6,7 @@
 <table>
   <caption>:bento: <b>Libs</b></caption>
   <tr><td>:rose:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/attr_bool">AttrBool</a></td><td><code>attr_accessor? :winning</code></td></tr>
-  <tr><td>:rose:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/CybelEngine">CybelEngine</a></td><td>Simple C++ game engine using SDL2 & OpenGL, with Web support.</td></tr>
+  <tr><td>:rat:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/CybelEngine">Cybel Engine</a></td><td>Simple game engine using SDL2, OpenGL, & Emscripten (Web).</td></tr>
   <tr><td>:rose:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/init_copy">InitCopy</a></td><td>Do <code>initialize_copy</code> right.</td></tr>
   <tr><td>:coffee:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/jeso">Jeso</a></td><td> Java utils (<code>Robot</code> wrapper).</td></tr>
   <tr><td>:rose:</td><td>:heavy_check_mark:</td><td><a href="https://github.com/esotericpig/psychgus">Psychgus</a></td><td>Add style to YAML.</td></tr>
